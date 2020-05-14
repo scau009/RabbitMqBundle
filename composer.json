@@ -1,5 +1,5 @@
 {
-    "name": "php-amqplib/rabbitmq-bundle",
+    "name": "scau009/RabbitMqBundle",
     "type": "symfony-bundle",
     "description": "Integrates php-amqplib with Symfony & RabbitMq. Formerly oldsound/rabbitmq-bundle.",
     "keywords": ["symfony", "symfony2", "symfony3", "symfony4", "rabbitmq", "message", "queue", "amqp"],
