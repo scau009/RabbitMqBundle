@@ -32,7 +32,7 @@ This bundle was presented at [Symfony Live Paris 2011](http://www.symfony-live.c
 Require the bundle and its dependencies with composer:
 
 ```bash
-$ composer require php-amqplib/rabbitmq-bundle
+$ composer require scau009/rabbit-mq-bundle
 ```
 
 Register the bundle:
